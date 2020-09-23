@@ -10,6 +10,9 @@ import category from './documents/category'
 import post from './documents/post'
 import siteSettings from './documents/siteSettings'
 import post1 from './documents/post1'
+import figure from './documents/figure'
+import youtube from './documents/youtube'
+import richText from './documents/richText'
 
 // Object types
 import bodyPortableText from './objects/bodyPortableText'
@@ -32,6 +35,10 @@ export default createSchema({
     category,
     author,
     post1,
+    figure,
+    youtube,
+    richText,
+
     mainImage,
     authorReference,
     bodyPortableText,

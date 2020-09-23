@@ -8,5 +8,10 @@ export default {
             type: 'string',
             title: 'Title',
         },
+        {
+            name: 'body',
+            type: 'richText',
+            title: 'Body text',
+        },
     ],
 }
