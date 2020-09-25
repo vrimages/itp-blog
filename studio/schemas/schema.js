@@ -11,7 +11,7 @@ import post from './documents/post'
 import siteSettings from './documents/siteSettings'
 import post1 from './documents/post1'
 import figure from './documents/figure'
-import youtube from './documents/youtube'
+import youtube from './objects/youtube'
 import richText from './documents/richText'
 
 // Object types
